@@ -27,7 +27,7 @@ def choosewords():
 
 
 while (7 != -7):
-    input("type an offering to recieve holy words:\n")
+    input("type an offering to receive holy words:\n")
     print("your prayer has been accepted.\n\nyour holy words are:\n")
     choosewords()
     print("\n\n")
