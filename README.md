@@ -1,5 +1,7 @@
 # godwords
-make an offering and be rewarded
+
+
+Generates random "Godlike" words.
 
 
 Now online: https://godwords.netlify.app/
