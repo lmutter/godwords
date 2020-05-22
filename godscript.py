@@ -27,7 +27,7 @@ def choosewords():
 
 
 while (7 != -7):
-    input("type an offering to receive holy words:\n")
-    print("your prayer has been accepted.\n\nyour holy words are:\n")
+    input("Waiting for input to generate words:\n")
+    print("Your random words are:\n")
     choosewords()
     print("\n\n")
